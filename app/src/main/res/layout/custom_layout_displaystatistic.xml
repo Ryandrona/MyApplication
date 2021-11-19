@@ -62,12 +62,11 @@
             android:id="@+id/txt_customstatistic_TenNV"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Lê Gia Huy"
-            android:textSize="22sp"
-            android:textColor="@color/black"
-            android:fontFamily="@font/muli_black"
             android:layout_marginLeft="10dp"
-            />
+            android:fontFamily="@font/muli_black"
+            android:text="NDQ"
+            android:textColor="@color/black"
+            android:textSize="22sp" />
         <TextView
             android:id="@+id/txt_customstatistic_BanDat"
             android:layout_below="@id/txt_customstatistic_TenNV"

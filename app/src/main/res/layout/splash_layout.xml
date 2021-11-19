@@ -33,7 +33,7 @@
         android:id="@+id/txtPowered"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Powered by GiaHuy"
+        android:text="Powered by NQD"
         android:layout_gravity="center|bottom"
         android:layout_marginBottom="30dp"/>
 
