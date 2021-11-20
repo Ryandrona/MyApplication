@@ -22,7 +22,7 @@ public class RegisterActivity extends AppCompatActivity {
             Pattern.compile("^" +
                     //"(?=.*[@#$%^&+=])" +     // at least 1 special character
                     "(?=\\S+$)" +            // no white spaces
-                    ".{6,}" +                // at least 4 characters
+                    ".{6,}" +                // at least 6 characters
                     "$");
 
     @Override
