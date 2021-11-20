@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.21302083333333333" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21302083333333333" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/MyApplication/app/src/main/res/font/muli.xml" value="0.22708333333333333" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/MyApplication/app/src/main/res/layout/addcategory_layout.xml" value="0.33" />
