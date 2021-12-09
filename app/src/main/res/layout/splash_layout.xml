@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Activities.SplashActivity"
-    android:background="@drawable/nenapp003"
+    android:background="@color/colorPrimary"
     >
 
     <ImageView
         android:id="@+id/imgLogo"
         android:layout_width="408dp"
         android:layout_height="392dp"
-        android:src="@drawable/logofinal02"
+        android:src="@drawable/recoffeeshop"
         android:layout_gravity="center|top"
         android:layout_marginTop="30dp"
          />
@@ -21,19 +21,20 @@
         android:id="@+id/txtCoffeeshop"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="150dp"
         android:fontFamily="@font/bangers"
         android:gravity="center_horizontal"
-        android:text="Coffee &amp; Tea Sweets"
         android:textColor="@color/black"
-        android:textSize="60sp" />
+        android:text="Coffee &amp; Tea Sweets"
+        android:textSize="60sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        />
 
     <TextView
         android:id="@+id/txtPowered"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Powered by NQD"
+        android:text="Powered by GiaHuy"
         android:layout_gravity="center|bottom"
         android:layout_marginBottom="30dp"/>
 
